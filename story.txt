@@ -1,1 +1,3 @@
 A long time ago in a galaxy far far away 
+
+This is additional text for the git status step
